@@ -9,5 +9,5 @@ Team Members
 3.Jai Adiya         RA2011026010035  
   
 Short Note:-  
-We Will be using Graphic User Interfaece(GUI) with help of Tkinter  
+We Will be using Graphic User Interfaece(GUI) with help of Tkinter Library  
 
