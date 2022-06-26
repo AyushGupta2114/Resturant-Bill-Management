@@ -9,6 +9,9 @@ Team Members
 2.Sai Darshan Reddy RA2011026010036  
 3.Jai Adiya         RA2011026010035  
   
-Short Note:-  
-We Will be using Graphic User Interfaece(GUI) with help of Tkinter Library  
+
+Graphic User Interfaece(GUI) with help of Tkinter Library  
+
+![image](https://user-images.githubusercontent.com/94870982/175826377-838e3a05-6991-461b-9259-d6589c313b95.png)
+
 
