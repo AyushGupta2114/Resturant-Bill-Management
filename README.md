@@ -6,8 +6,8 @@ Completed Project
 Team Members  
 
 1.Ayush Kumar Gupta RA2011026010038
-2.Sai Darshan Reddy RA2011026010036  
-3.Jai Adiya         RA2011026010035  
+2.Sai Darshan Reddy K RA2011026010036  
+3.Jai Aditya         RA2011026010035  
   
 
 Graphic User Interfaece(GUI) with help of Tkinter Library  
